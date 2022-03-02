@@ -3,7 +3,7 @@ package data_and_opperation;
 public class Number {
 
 	public static void main(String[] args) {
-		// Operator ¿¬»êÀÚ
+		// Operator ì—°ì‚°ì
 		System.out.println(6+2); //8
 		System.out.println(6 - 2); //4
 		System.out.println(6*2); //12
