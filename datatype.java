@@ -14,6 +14,6 @@ public class datatype{
 		System.out.println("1111".length()); // 4
 //		System.out.println(1111.length());
 		
-// sysout + ctrl + space = System.out.println ´ÜÃàÅ°		
+// sysout + ctrl + space = System.out.println ë‹¨ì¶•í‚¤	
 	}
 }
