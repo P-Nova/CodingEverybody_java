@@ -4,10 +4,10 @@ public class Variable {
 
 	public static void main(String[] args) {
 
-		int a=1; // INTEGER Á¤¼ö
+		int a=1; // INTEGER ì •ìˆ˜
 		System.out.println(a);
 		
-		double b=1.1; // REALNUMBER ½Ç¼ö => DOUBLE
+		double b=1.1; // REALNUMBER ì‹¤ìˆ˜ => DOUBLE
 		System.out.println(b);
 		
 		String c="HELLO WORLD";
