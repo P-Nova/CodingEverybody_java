@@ -7,10 +7,13 @@ import org.opentutorials.iot.Security;
 
 public class OkJavaGoHomeINPUT {
 
+	// arguments 인자. 입력값
+	// parameter 매개변수
+	// 11-2강 파라미터를 통해서 인자를 전달하는 방식
 	public static void main(String[] args) {
 		
-		String id = JOptionPane.showInputDialog("Enter your ID");
-		String bright = JOptionPane.showInputDialog("Enter a Bright level");
+		String id = args[0];
+		String bright = args[1];
 		
 		// Elevator call
 		Elevator myElevator = new Elevator(id);
